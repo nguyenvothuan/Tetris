@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,QACD,CAED,KACE,mBAAoB,CACpB,uDACF","file":"main.833eaa5f.chunk.css","sourcesContent":["body {\n  margin: 0;\n }\n\ncode {\n  font-family: 'Pixel';\n  src: url('./starter_files/react-tetris-starter-files-master/Pixel-LCD-7.woff')\n}\n"]}
